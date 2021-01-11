@@ -4,3 +4,18 @@
 
 print("Hello World")
 
+from collections import deque
+graph ={}
+graph['you']=['alice','bob','claire']
+search_queue = deque()
+search_queue+=[]
+search_queue
+
+
+
+
+
+
+
+
+
